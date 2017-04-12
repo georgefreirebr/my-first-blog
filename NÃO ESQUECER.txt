@@ -1,0 +1,14 @@
+Acionar o virtualenv
+myenv\Scripts\activate
+
+Rodar o servidor
+python manage.py runserver
+
+Criei o superusário
+admin
+17278meia
+
+Diretório GIT
+georgefreirebr@gmail.com
+17278meia
+https://github.com/georgefreirebr/my-first-blog.git
