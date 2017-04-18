@@ -7,8 +7,20 @@ python manage.py runserver
 Criei o superusário
 admin
 17278meia
-
+---------------------------------------
 Diretório GIT
 georgefreirebr@gmail.com
 17278meia
 https://github.com/georgefreirebr/my-first-blog.git
+
+---------------------------------------
+Python Anywhere
+georgefreirebr@gmail.com
+17278meia
+Superusuário Python Anywhere
+georgefreirebr
+georgefreirebr@gmail.com
+17278meia
+
+
+/home/georgefreirebr/my-first-blog/myenv/
